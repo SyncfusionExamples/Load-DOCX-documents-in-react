@@ -1,4 +1,4 @@
-# Load-DOCX-documents-in-react
+# Load DOCX documents in React
 This repository contains an example of how to load DOCX Documents in a React application using the Syncfusion DOCX Editor. It showcases rich Word document (DOCX) editing and rendering directly within the browser, entirely free from Microsoft Word or Office interop dependencies.
 
 # How to run the application
